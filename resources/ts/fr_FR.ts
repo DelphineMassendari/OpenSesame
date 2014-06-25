@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="2.0" language="fr" sourcelanguage="">
+<!DOCTYPE TS>
+<TS version="2.0" language="fr">
 <context>
     <name>font_widget</name>
     <message>
@@ -251,7 +252,7 @@
     <message>
         <location filename="general_widget.ui" line="273"/>
         <source>Edit the script for the entire experiment</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer le script complet de l&apos;expérience</translation>
     </message>
     <message>
         <location filename="general_widget.ui" line="286"/>
@@ -3063,7 +3064,7 @@ Différents réglages liés au contrôle de l&apos;affichage, le son, et les sys
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;COGSCIdotNL // cognitive science and more&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;COGSCIpointNL // cognitive science and more&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="credits_widget.ui" line="150"/>
         <source>OpenSesame [version] [codename]
 Copyright Sebastiaan Mathôt (2010-2013)</source>
@@ -3080,7 +3081,7 @@ Copyright Sebastiaan Mathôt (2010-2013)</translation>
         <source>&lt;a href=&quot;http://osdoc.cogsci.nl/donate/&quot;&gt;Donate&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="credits_widget.ui" line="170"/>
         <source>OpenSesame [version] [codename]
 Copyright Sebastiaan Mathôt (2010-2014)</source>
